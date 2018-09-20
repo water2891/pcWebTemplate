@@ -39,4 +39,4 @@ npm run serve
 
 ## Live Preview
 
-...
+https://water2891.github.io/pcWebTemplate/
