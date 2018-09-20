@@ -6,7 +6,7 @@ A generic template for pc website.
 
 ### 1. Download this repository
 ```
-...
+git clone https://github.com/water2891/pcWebTemplate myWebsite
 ```
 
 Repository will be downloaded into `myWebsite/` folder
@@ -31,7 +31,10 @@ App will be opened in browser at `http://localhost:8080/`
 ## One command install
 
 ```
-...
+git clone https://github.com/water2891/pcWebTemplate myWebsite &&
+cd my-app &&
+npm install &&
+npm run serve
 ```
 
 ## Live Preview
