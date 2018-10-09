@@ -49,7 +49,7 @@ fs.readdir("node_modules/@fortawesome/fontawesome-free/webfonts",function(err,pa
 	});
 });
 
-
+copy("node_modules/bluebird/js/browser/", "www/libs/bluebird/","bluebird.min.js");
 
 
 

@@ -23,5 +23,7 @@
     "uglify-js": "^3.4.9",
     "whatwg-fetch": "^3.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bluebird": "^3.5.2"
+  }
 }
