@@ -21,9 +21,7 @@
     "sweetalert": "^2.1.0",
     "template7": "^1.4.0",
     "uglify-js": "^3.4.9",
-    "whatwg-fetch": "^3.0.0"
-  },
-  "dependencies": {
+    "whatwg-fetch": "^3.0.0",
     "bluebird": "^3.5.2"
   }
 }
