@@ -30,6 +30,9 @@ fs.writeFileSync("www/libs/fetch/fetch.min.js",result.error || result.code);*/
 
 copy("node_modules/flatpickr/dist/", "www/libs/flatpickr/","flatpickr.min.js");
 copy("node_modules/flatpickr/dist/", "www/libs/flatpickr/","flatpickr.min.css");
+copy("node_modules/flatpickr/dist/plugins/confirmDate/", "www/libs/flatpickr/","confirmDate.js");
+copy("node_modules/flatpickr/dist/plugins/confirmDate/", "www/libs/flatpickr/","confirmDate.css");
+copy("node_modules/flatpickr/dist/l10n/", "www/libs/flatpickr/","zh.js");
 
 copy("node_modules/sweetalert/dist/", "www/libs/sweetalert/","sweetalert.min.js");
 
